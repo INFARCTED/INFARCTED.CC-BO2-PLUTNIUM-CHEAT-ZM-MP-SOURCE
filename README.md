@@ -16,4 +16,4 @@ SOURCE :
 
 BASE GAME : 
 -STEAM [Ok]
--DIRECT PLUTO [Wait 2 dayssssss]
+-DIRECT PLUTO [Ok]
